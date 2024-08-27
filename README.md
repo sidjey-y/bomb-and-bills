@@ -28,9 +28,3 @@ The following `n` lines contain `m` characters each, representing the grid.
 2. **Calculate Initial Value**: Sum the values of $100 bills in safe cells.
 3. **Optimize with Swaps**: If `k > 0`, strategically swap bill values to maximize the total saved before bombs explode.
 
-## Usage
-
-To run the program, execute the following command, providing the input file as an argument:
-
-```bash
-$ python bomb_and_bills.py testcases/test0.txt
